@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989107885332",
+    "project_id": "softcoder-b9e7f",
+    "storage_bucket": "softcoder-b9e7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989107885332:android:72de39966766c79b871e01",
+        "android_client_info": {
+          "package_name": "com.shs.immediatebitcoinapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989107885332-2nqnj3lf75jjtf8jmd2gc4g1p9rho9g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shs.immediatebitcoinapp",
+            "certificate_hash": "48039870f841ac3e29bee980422b413ec6c0ba08"
+          }
+        },
+        {
+          "client_id": "989107885332-2u3r2hqi8k1pbh4n74e9kfp6e6smqi47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzS84sVcKejY8B-WQXO1ywNPh5eMHMKDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989107885332-2u3r2hqi8k1pbh4n74e9kfp6e6smqi47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

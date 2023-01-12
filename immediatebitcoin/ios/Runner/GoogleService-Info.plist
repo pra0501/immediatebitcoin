@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>989107885332-7tn6md2tju9l1ru6q1ur3kb6sqbb66kl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.989107885332-7tn6md2tju9l1ru6q1ur3kb6sqbb66kl</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>989107885332-2nqnj3lf75jjtf8jmd2gc4g1p9rho9g2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjL0AkFuMNVSlbHcFNl_-eTt5tbP8UWC4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>989107885332</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.shs.immediatebitcoinapp</string>
+	<key>PROJECT_ID</key>
+	<string>softcoder-b9e7f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>softcoder-b9e7f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:989107885332:ios:969d467ddd636a6d871e01</string>
+</dict>
+</plist>
